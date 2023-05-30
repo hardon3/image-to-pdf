@@ -1,1 +1,2 @@
 # image-to-pdf
+The code given is a simple Graphical User Interface (GUI) application created using the Tkinter library in Python. The application for helping any user convert multiple images into a single Portable Document Format (PDF) file. The user does the selection of images they want to convert and provides the name and location of the resulting PDF file to the interpreter. The application uses the Python Imaging Library (PIL) to handle the conversion process.
